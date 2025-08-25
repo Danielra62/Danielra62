@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😎 Last Activity
-<!--START_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update-->
